@@ -1,1 +1,1 @@
-# braille-knn
+This project is a Python-based Braille character recognition system that uses machine learning to predict the Braille symbol input and a text-to-speech (TTS) system to vocalize the detected character. The recognition is powered by a K-Nearest Neighbors (KNN) classifier, while audio output is handled by the gTTS (Google Text-to-Speech) library.
